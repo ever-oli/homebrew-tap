@@ -3,8 +3,8 @@ class Snapguard < Formula
 
   desc "Interactive snapshot/cache guard for opencode and Cursor"
   homepage "https://github.com/ever-oli/snapguard"
-  url "https://github.com/ever-oli/snapguard/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "d2849fec31f80ba334f9aa3cc3cb67852810ac1ff703e9f127ce0e5b9843db97"
+  url "https://github.com/ever-oli/snapguard/archive/refs/tags/v0.1.1.tar.gz"
+  sha256 "9c2dc217a674ea9dcfe44a9dde8259a96074d7940f083e3832009cdb8c4d0e0c"
   license "MIT"
 
   depends_on "python@3.12"
